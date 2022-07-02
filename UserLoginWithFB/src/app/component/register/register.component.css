@@ -1,0 +1,18 @@
+.container-fluid{
+    margin-left: 450px;
+}
+.row{
+    padding: 45px;
+}
+label{
+    padding: 5px;
+}
+.card{
+    padding: 10px;
+}
+h4{
+    text-align: center;
+}
+.submit{
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "demo2-2fa62": {
+      "hosting": {
+        "fb_demo": [
+          "demo2-2fa62"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "demo2-2fa62"
+  }
+}
